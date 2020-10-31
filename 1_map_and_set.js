@@ -1,5 +1,3 @@
-// Given task 1
-
 const a = [1, 1, 1, 2, 2, 3, 3, 3, 3, 4, 3, 2, 1, 5, 4, 3, 2, 5, 1, 2, 3];
 
 const res = new Map();
